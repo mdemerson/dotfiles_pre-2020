@@ -47,3 +47,9 @@ alias bes="bundle exec rspec"
 alias rserve='rails server'
 alias rc="rails console"
 alias r="rails"
+
+
+
+# Python
+
+alias py="/usr/bin/python3"
